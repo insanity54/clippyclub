@@ -1,0 +1,63 @@
+{
+    "mobileBottomRow": 33,
+    "widgetName": "NumberSlider1",
+    "defaultValue": "5",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.0e730017fc6034faa535c7c3ff261daa.svg",
+    "displayName": "Number Slider",
+    "tooltipAlwaysOn": false,
+    "labelText": "Clip Count",
+    "topRow": 22,
+    "searchTags": ["range"],
+    "bottomRow": 28,
+    "parentRowSpace": 10,
+    "labelWidth": 8,
+    "type": "NUMBER_SLIDER_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 45,
+    "animateLoading": true,
+    "min": "1",
+    "parentColumnSpace": 6.953125,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 4,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "shouldTruncate": false,
+    "labelPosition": "Top",
+    "isDisabled": false,
+    "key": "psgpg5bqpz",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 55,
+    "max": "10",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "widgetId": "1ccsxw4jgq",
+    "isVisible": true,
+    "marks": [
+        {
+            "label": "25%",
+            "value": 25
+        },
+        {
+            "label": "50%",
+            "value": 50
+        },
+        {
+            "label": "75%",
+            "value": 75
+        }
+    ],
+    "sliderSize": "m",
+    "version": 1,
+    "shouldScroll": false,
+    "parentId": "08u86wq0qq",
+    "tags": ["Sliders"],
+    "isLoading": false,
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 25,
+    "responsiveBehavior": "fill",
+    "originalTopRow": 22,
+    "mobileLeftColumn": 5,
+    "originalBottomRow": 28,
+    "step": "1",
+    "showMarksLabel": true
+}

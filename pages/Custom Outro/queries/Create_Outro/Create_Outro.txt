@@ -1,0 +1,4 @@
+INSERT INTO public."outros" ("owner", "is_public", "url", "label")
+  VALUES ({{ appsmith.user.email }}, false, {{ appsmith.store.outroVideoUrl }}, {{ Input1.text }});
+	
+	

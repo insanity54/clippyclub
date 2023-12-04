@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  public.outros
+WHERE
+  "label" ilike '%{{Select1.filterText}}%'

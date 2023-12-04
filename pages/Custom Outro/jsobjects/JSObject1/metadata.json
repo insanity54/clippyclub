@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Custom Outro",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "cdnUrl",
+        "value": "'https://clippyclub.b-cdn.net'"
+      },
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Custom Outro_JSObject1",
+  "deleted": false,
+  "gitSyncId": "656a96fdd6b4f77f4123a4fe_656b59241786c936c142e548"
+}
