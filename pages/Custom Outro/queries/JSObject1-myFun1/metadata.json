@@ -35,7 +35,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-12-02T16:19:48Z"
   },
   "id": "Custom Outro_JSObject1.myFun1",
   "deleted": false,

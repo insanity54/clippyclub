@@ -101,7 +101,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-12-02T15:34:36Z"
   },
   "id": "Custom Outro_Upload_File",
   "deleted": false,
