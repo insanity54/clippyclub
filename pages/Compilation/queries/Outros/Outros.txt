@@ -1,0 +1,1 @@
+{"pageSize":"100","command":"LIST_RECORDS","filterByFormula":"","baseId":"appm5uDC7vPj1XQAk","tableName":"Outros","maxRecords":"10"}

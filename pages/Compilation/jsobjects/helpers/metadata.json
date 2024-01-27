@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "helpers",
+    "pageId": "Compilation",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Compilation_helpers",
+  "deleted": false,
+  "gitSyncId": "65b55acdc710432583953d20_65b56e95aae8ec25a06a4225"
+}

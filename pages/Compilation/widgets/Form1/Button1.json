@@ -10,7 +10,7 @@
         "click",
         "submit"
     ],
-    "topRow": 62,
+    "topRow": 64,
     "bottomRow": 68,
     "type": "BUTTON_WIDGET",
     "hideCard": false,

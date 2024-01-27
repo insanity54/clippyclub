@@ -30,13 +30,11 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Compilation_Select_public_outros1",
-              "name": "Select_public_outros1",
+              "id": "Compilation_Outros",
+              "name": "Outros",
               "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "Select1.filterText"
-              ],
+              "pluginType": "REMOTE",
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
